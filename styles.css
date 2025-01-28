@@ -1,0 +1,26 @@
+body {
+    background-color: #f4f6f9;
+}
+
+.table {
+    background-color: white;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+.verde {
+    background-color: #d4edda !important;
+}
+
+.rojo {
+    background-color: #f8d7da !important;
+}
+
+.estado-cumplido {
+    color: green;
+    font-weight: bold;
+}
+
+.estado-incumplido {
+    color: red;
+    font-weight: bold;
+}
